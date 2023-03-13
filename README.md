@@ -5,7 +5,9 @@ Desenvolvedor Web Front End
 👨🏻‍💻 Front End <br>
 👨🏻‍💻 Back End <br>
 👨🏻‍💻 Banco de Dados <br>
-💻 Atualmente mais focado em: <br>
+💻 Atualmente mais focado em: 
+<br>
+<br>
 <div style="inline">
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
