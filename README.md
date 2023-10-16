@@ -5,7 +5,7 @@ Desenvolvedor Web Front End
 👨🏻‍💻 Front End <br>
 👨🏻‍💻 Back End <br>
 👨🏻‍💻 Banco de Dados <br>
-💻 Atualmente mais focado em: 
+💻 Atualmente focado nas linguagens: 
 <br>
 <br>
 <div style="inline">
