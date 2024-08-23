@@ -6,7 +6,7 @@ Desenvolvedor C# .NET
 👨🏻‍💻 APIs <br>
 👨🏻‍💻 Mirosserviços <br>
 👨🏻‍💻 Banco de Dados <br>
-💻 Trabalhando com linguagem: 
+💻 Trabalhando com linguagem e frameworks: 
 <br>
 <br>
 <div style="inline">
