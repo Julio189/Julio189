@@ -1,5 +1,5 @@
 ### Olá, meu nome é Julio
-Desenvolvedor C#
+Desenvolvedor C# .NET
 <hr>
 👨🏻‍💻 Desenvolvedor Web <br>
 👨🏻‍💻 Back End <br>
